@@ -1,16 +1,18 @@
 {
   "name": "nucampsite",
   "version": "1.0.0",
-  "description": "Bootstrap Project for NuCamp",
-  "main": "index.js",
+  "description": "This is a website for the fictional campsite review site, NuCamp",
+  "main": "index.html",
   "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jessicadelfierro/nucampsite.git"
   },
-  "author": "",
+  "author": "Jessica Del Fierro",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jessicadelfierro/nucampsite/issues"
