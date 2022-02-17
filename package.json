@@ -1,0 +1,19 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "Bootstrap Project for NuCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicadelfierro/nucampsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicadelfierro/nucampsite/issues"
+  },
+  "homepage": "https://github.com/jessicadelfierro/nucampsite#readme"
+}
