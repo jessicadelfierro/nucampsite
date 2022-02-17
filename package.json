@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jessicadelfierro/nucampsite/issues"
   },
-  "homepage": "https://github.com/jessicadelfierro/nucampsite#readme"
+  "homepage": "https://github.com/jessicadelfierro/nucampsite#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
