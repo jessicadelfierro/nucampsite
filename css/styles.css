@@ -1,3 +1,4 @@
+/* --- VARIABLES --- */
 body {
   font-family: "Open Sans", sans-serif; }
 
@@ -47,4 +48,5 @@ a, a:hover {
   position: absolute;
   right: 0;
   bottom: 0;
-  z-index: 100; /*ensure that the buttons appears overlayed instead of being hidden underneath the carousel*/ }
+  z-index: 100;
+  /*ensure that the buttons appears overlayed instead of being hidden underneath the carousel*/ }
