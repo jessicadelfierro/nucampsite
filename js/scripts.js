@@ -1,5 +1,13 @@
-//jQuery script for pause/play button for carousel
 $(function() {
+    // Reserve Modal 
+    $("#reserveButton").click(function() {
+        $("#reserveModal").modal('show');
+    })
+    //Login Modal
+    $("#loginButton").click(function() {
+        $("#loginModal").modal('show');
+    })
+    // Pause/Play button for Carousel
     $(".carousel").carousel( { interval: 2000 } );
     $("#carouselButton").click(function(){
         if ($("#carouselButton").children("i").hasClass("fa-pause")) {
